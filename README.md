@@ -6,7 +6,7 @@
 ### Task 2 : between , in
 ### Task 3 : like . ilike
 ### Task 4 : distinct , count
-### Task 5 :
+### Task 5 : limit, offset
 ### Task 6 :
 ### Task 7 :
 ### Task 8 :
