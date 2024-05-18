@@ -2,3 +2,16 @@
 
 
 # SQL Task
+### Task 1 : select, where
+### Task 2 : between , in
+### Task 3 : like . ilike
+### Task 4 : distinct , count
+### Task 5 :
+### Task 6 :
+### Task 7 :
+### Task 8 :
+### Task 9 :
+### Task 10 :
+### Task 11 :
+### Task 12 :
+
