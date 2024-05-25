@@ -9,7 +9,7 @@
 ### Task 5 : limit, offset
 ### Task 6 : aggregate functions
 ### Task 7 : group by, having
-### Task 8 :
+### Task 8 : table( update, delete,alter,and using the 'Mockaroo' service)
 ### Task 9 :
 ### Task 10 :
 ### Task 11 :
