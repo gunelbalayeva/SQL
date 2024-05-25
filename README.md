@@ -7,8 +7,8 @@
 ### Task 3 : like . ilike
 ### Task 4 : distinct , count
 ### Task 5 : limit, offset
-### Task 6 :
-### Task 7 :
+### Task 6 : aggregate functions
+### Task 7 : group by, having
 ### Task 8 :
 ### Task 9 :
 ### Task 10 :
