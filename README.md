@@ -13,5 +13,5 @@
 ### Task 9 : Join | inner join
 ### Task 10 : left join, right join, full join
 ### Task 11 : union, intersect, except
-### Task 12 :
+### Task 12 : subqueries
 
